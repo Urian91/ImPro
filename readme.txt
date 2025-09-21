@@ -1,6 +1,6 @@
 Készítette
 
-Név: Nagy Dániel József
+Nagy Dániel József & Kürtösi Tamás
 Képzés: Szoftverfejlesztő és -tesztelő
 Dátum: 2025. szeptember 1.
 
@@ -41,7 +41,7 @@ Telepítés
 
 Klónozd a projektet:
 
-git clone https://github.com/felhasznalo/projekt.git
+git clone https://github.com/Urian91/ImPro
 
 
 Telepítsd a függőségeket:
